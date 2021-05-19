@@ -1,0 +1,29 @@
+/*
+*{
+	margin:0px;
+	padding:0px;
+}
+*/
+
+body{
+	background-color:#bfc9c2;
+	color:black;
+	font: bolder 15px Arial;
+
+	line-height:1.6em;
+}
+
+.terms{
+	color:black;
+
+	padding-top:10px;
+	text-decoration:underline;
+}
+
+.termsand{
+	font:bolder 15px Arial;
+}
+
+.strong{
+	color:#fff;
+}
