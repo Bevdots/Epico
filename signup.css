@@ -1,0 +1,33 @@
+body{
+	background:#bfc9c2;
+	color:black;	
+	font: bolder 15px Arial;
+	line-height:1.6em;
+}
+
+.signin{
+}
+
+.my-form{
+	padding:20px;
+	text-align:center;
+	
+}
+
+.my-form .form-group{
+	padding-bottom:15px;
+}
+
+.my-form label{
+	display:block;
+}
+
+.my-form input[type="text"], .myform textarea{
+	padding:8px;
+	width:50%;
+}
+
+.text{
+	position:absolute;
+	left:40%;
+}
